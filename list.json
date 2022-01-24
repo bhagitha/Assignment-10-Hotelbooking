@@ -1,0 +1,75 @@
+{
+    "list":[{
+        "id":1,
+        "img":"room_single.jpg",
+        "title":"Single Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":2,
+        "img":"OIP (6).jfif",
+        "title":"Delux Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":3,
+        "img":"OIP (5).jfif",
+        "title":"Single Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":4,
+        "img":"OIP (4).jfif",
+        "title":"Delux Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":5,
+        "img":"OIP.jfif",
+        "title":"Double Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m"
+    },
+    {
+        "id":6,
+        "img":"OIP (1).jfif",
+        "title":"Single Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m"
+    },
+    {
+        "id":7,
+        "img":"OIP (2).jfif",
+        "title":"Single Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":8,
+        "img":"OIP (3).jfif",
+        "title":"Double Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    },
+    {
+        "id":9,
+        "img":"room_single.jpg",
+        "title":"Delux Room",
+        "price":"$99",
+        "desc":"SingleBed",
+        "Sqrfeet":"15m2"
+    }
+]
+}
